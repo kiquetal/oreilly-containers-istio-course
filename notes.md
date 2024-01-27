@@ -1,5 +1,7 @@
 #### Course: Managing Microservices with Kubernetes and Istio
 
+#### 
+istioctl install --set profile=demo -y 
 
 
 #### Enable completionm
