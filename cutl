@@ -1,0 +1,3 @@
+curl -H "Host: www.example.com" http://localhost:8080
+
+curl -H "Host: dev.example.com" http://10.107.244.7
