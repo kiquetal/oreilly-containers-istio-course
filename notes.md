@@ -17,11 +17,12 @@ kubectl create -f https://raw.githubusercontent.com/keycloak/keycloak-quickstart
 
 - Create role inside client
 
+gt-admin
 
 
 
 - Assign the role to the service account
-
+"select client roles"
 
 
 
